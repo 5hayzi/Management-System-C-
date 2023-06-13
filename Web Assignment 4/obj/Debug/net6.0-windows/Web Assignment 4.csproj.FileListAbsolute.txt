@@ -1,0 +1,43 @@
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.csproj.AssemblyReference.cache
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web_Assignment_4.DeleteForm.resources
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web_Assignment_4.InsertForm.resources
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web_Assignment_4.MainForm.resources
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web_Assignment_4.SearchForm.resources
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web_Assignment_4.UpdateForm.resources
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.csproj.GenerateResource.cache
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.AssemblyInfoInputs.cache
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.AssemblyInfo.cs
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\Web Assignment 4.exe
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\Web Assignment 4.deps.json
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\Web Assignment 4.runtimeconfig.json
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\Web Assignment 4.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\Web Assignment 4.pdb
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.csproj.CopyComplete
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\refint\Web Assignment 4.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.pdb
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\Web Assignment 4.genruntimeconfig.cache
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\obj\Debug\net6.0-windows\ref\Web Assignment 4.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\hithi\source\repos\Web Assignment 4\Web Assignment 4\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
